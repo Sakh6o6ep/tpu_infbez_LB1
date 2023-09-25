@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+d:\users\tvk25\desktop\inf_bezo\lb1_form\lb1_form\MyForm.h(28): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  LB1_form.vcxproj -> D:\Users\tvk25\Desktop\inf_bezo\LB1_form\Debug\LB1_form.exe
+  LB1_form.vcxproj -> D:\Users\tvk25\Desktop\inf_bezo\LB1_form\Debug\LB1_form.pdb (Partial PDB)
